@@ -15,7 +15,7 @@ the applicatio uses an online database so it will be fully functional upon dowlo
 
 Software Demo Video
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Videos](https://youtu.be/1v7j9VYNmJg , https://youtu.be/CkNqu7glxoI)
 
 # Web Pages
 
