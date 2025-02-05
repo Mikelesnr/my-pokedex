@@ -8,6 +8,7 @@ export async function GET(req: NextRequest) {
 
   try {
     console.log(name)
+    // Fetch the Pokemon data from the PokeAPI
     const response = await axios.get<Pokemon>(`https://pokeapi.co/api/v2/pokemon/${name}`);
     const pokemon: Pokemon = response.data;
     console.log(pokemon)
